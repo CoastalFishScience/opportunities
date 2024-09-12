@@ -1,23 +1,34 @@
 ---
-title: "BSC 6926 B52 Fall 2023"
+title: "Postdoc opportunity"
 format: html
-editor: visual
 ---
 
-#### BSC 6926 B52: R workshop on population and community ecological modeling
-This is the course website for the R workshop that coincides with PCB 5423 (Advanced Ecology). This website will have the Rmarkdown lessons for each workshop. Find the course schedule and Syllabus [here](sylb.html). This course will be based in R and information about downloading R and Rstudio can be found [here](comp.html). 
+#### **Everglades coastal fisheries postdoc (Miami, FL)**
 
-### Class Resources
--   [Zoom link](https://fiu.zoom.us/j/94001884298?pwd=b25VZTh6eHFlOVdjRDhrbUV6OTBVZz09)
--   [Github repository for workshop R scripts](https://github.com/BSC6926-B52-Fall2023/workshopScripts)
--   [Website Github repository](https://github.com/BSC6926-B52-Fall2023/BSC6926-B52-Fall2023.github.io)
--   Textbook for R exercises (S) Stevens, M.H.H. 2010. A primer of ecology with R. ISBN 978-0-387-89881-0 (Electronically available at FIU Library)
-[E-book version](https://hankstevens.github.io/Primer-of-Ecology/)
+[Florida International University](https://environment.fiu.edu/) (FIU) and [Everglades National Park](https://www.nps.gov/ever/learn/nature/sfnrcaboutus.htm) (ENP) seek a postdoctoral researcher.\
 
-### R Resources
--    R for Data Science by Hadley Wickham and Garret Grolemund -- An introduction to programming with R: <https://r4ds.hadley.nz/>\
--    Quick-R by datacamp: Quick overview on R programming and statistical approaches. There are more tutorials, but you will be required to register\
--    RStudio Cloud Training Exercises: <https://rstudio.cloud/learn/primers>\
--    Virtual Ecology Portal/EcoVirtual R Package: Website that provides various examples of population and community models that will be discussed in class and the workshop. There is also an R package (EcoVirtual) you can use to run various models included on this website: <http://ecovirtual.ib.usp.br/doku.php?id=start>\
--    ModernDive: Introductory book on R and statistical inference: <https://moderndive.com/index.html>
--    Rstudio: learn R https://education.rstudio.com/learn/beginner/
+**Duration:** 2.5 years\
+**Start date:** Open until filled (desired for Fall 2024)\
+**Annual Salary:** \$60,000 (with cost of living adjustments & benefits package)\
+**Location:** Position is in person in Miami, FL\
+
+**About the position:** FIU and the National Park Service's South Florida Natural Resources Center (SFNRC) seek a talented and enthusiastic postdoctoral researcher with excellent quantitative skills to lead research aimed at gaining a comprehensive understanding of the **resilience of Everglades recreational fisheries to hydroclimatic variation and extreme events**. Recreational fishing is a core socioeconomic activity in the region, with 1 in 5 Florida anglers fishing the coastal Everglades and generating billions in economic activity. Yet, our understanding of the patterns of recreational catch and effort and their dependency on hydrology, including ongoing restoration efforts, and climate remains limited.\
+
+Coastal fisheries are hypothesized to respond to both press and pulse disturbances, with pulse disturbances impacting recruitment events and press disturbances regulating overall population performance. Thus, the goals of the study, using fisheries dependent an environmental data, are threefold: 1) To examine spatiotemporal patterns in angler catch and effort in the Everglades recreational fishery, 2) To link these spatiotemporal trends to hydroclimatic drivers and restoration actions, and 3) To evaluate the utility of fisheries-dependent data and provide recommendations for future monitoring. Available data sets include a dockside angler survey that spans over 40 years and is one of the longest and most valuable fisheries-dependent datasets in Florida, along with hydrological and climate data streams.\
+
+The position provides a unique opportunity to work collaboratively in an academic institution-government agency partnership with the goal of increasing our understanding of coastal processes and restoration effects and of improving recreational fisheries management. We are part of a highly collaborative South Florida research community, composed of scientists, federal, state, private partners, and stakeholders (see http://fcelter.fiu.edu/ and https://crestcache.fiu.edu/), and thus opportunities for collaborative team science, participation in other projects, engagement with resource managers and anglers, and mentoring graduate and undergraduate students are available.\
+
+**Requirements:** A Ph.D. in ecology, fisheries, quantitative ecology, biology, or related field is required. Applicants must have a demonstrated record of publication in peer-reviewed journals, and excellent coding skills in R. The selected candidate must pass a U.S. government tier 1 (non-sensitive) background check and complete NPS cybersecurity training. This position requires frequent in-person work at both FIU and NPS offices in Miami, FL.\
+
+**Preferred qualifications:** The ideal candidate has excellent quantitative skills and a passion for fisheries. Experience and interest working with fisheries-dependent data, robust causation analytical approaches, stock assessment tools, using collaborative team science approaches, and engagement with anglers and resource managers are desired.\
+
+**How To Apply:** Please email [Dr. Jenn Rehage](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8pe5lMIwebbK2vDA0aqCLN30vyKodcfhdsGPY-PPbeXqqJwSTPHFdhi01ixFJhs0tkJ4z6oR0OlyRePA&user=X9VfvfIAAAAJ) at **rehagej@fiu.edu** and [Dr. Rolando Santos](https://scholar.google.com/citations?hl=en&user=SkxIVFAAAAAJ&view_op=list_works&sortby=pubdate) **rsantosc@fiu.edu** with the subject line **‘Postdoc 2024 + your name.’** In your email, please include (as a single PDF):\
+      - Cover letter describing experience, interests & expertise relevant to position & career goals\
+      - CV with list of 3 references\
+      - Examples of products (peer-reviewed publications, data & code packages, GitHub repositories, popular articles, outreach products, etc.)\
+
+**About FIU & SFNRC:**\
+*Florida International University* is Miami's public research university and Florida’s youngest preeminent universities, and one of the youngest R1 research universities (highest research activity) in the US. FIU is also the largest majority-minority serving institution in the country, and ranked the second most impactful university in the nation, the No. 3 best public university in the US, and among the top 20 public universities contributing to the public good. The *Coastal Fisheries & Seascape Labs* focus on how fishes and recreational fisheries track anthropogenic disturbance and seascape change, and conducts research to inform management, conservation, and restoration efforts in partnership with stakeholders to coproduce science that is both fundamental and actionable.\ 
+
+The National Park Service’s *South Florida Natural Resources Center* has a unique science mission to address the impacts and progress of Everglades restoration, the largest and most expensive ecosystem restoration project in history. The Center serves four park units including Everglades National Park, Biscayne National Park, Dry Tortugas National Park, and Big Cypress National Preserve. There are 50 staff across 4 offices organized by four main groups: Restoration Sciences, Biological Sciences, Data Sciences, and Resiliency and Sustainability. \
+
