@@ -8,9 +8,9 @@ format: html
 [Florida International University](https://environment.fiu.edu/) (FIU) and [Everglades National Park](https://www.nps.gov/ever/learn/nature/sfnrcaboutus.htm) (ENP) seek a postdoctoral researcher.\
 
 **Duration:** 2.5 years\
-**Start date:** Open until filled (desired for Fall 2024)\
-**Annual Salary:** \$60,000 (with cost of living adjustments & benefits package)\
-**Location:** Position is in person in Miami, FL\
+**Start date:** Open until filled\
+**Annual Salary:** \$61,000 - $64,000 (+ benefits package)\
+**Location:** Flexible (If in person, the position is based in Miami, FL)\
 
 **About the position:** FIU and the National Park Service's South Florida Natural Resources Center (SFNRC) seek a talented and enthusiastic postdoctoral researcher with excellent quantitative skills to lead research aimed at gaining a comprehensive understanding of the **resilience of Everglades recreational fisheries to hydroclimatic variation and extreme events**. Recreational fishing is a core socioeconomic activity in the region, with 1 in 5 Florida anglers fishing the coastal Everglades and generating billions in economic activity. Yet, our understanding of the patterns of recreational catch and effort and their dependency on hydrology, including ongoing restoration efforts, and climate remains limited.\
 
@@ -22,7 +22,7 @@ The position provides a unique opportunity to work collaboratively in an academi
 
 **Preferred qualifications:** The ideal candidate has excellent quantitative skills and a passion for fisheries. Experience and interest working with fisheries-dependent data, robust causation analytical approaches, stock assessment tools, using collaborative team science approaches, and engagement with anglers and resource managers are desired.\
 
-**How To Apply:** Please email [Dr. Jenn Rehage](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8pe5lMIwebbK2vDA0aqCLN30vyKodcfhdsGPY-PPbeXqqJwSTPHFdhi01ixFJhs0tkJ4z6oR0OlyRePA&user=X9VfvfIAAAAJ) at **rehagej@fiu.edu** and [Dr. Rolando Santos](https://scholar.google.com/citations?hl=en&user=SkxIVFAAAAAJ&view_op=list_works&sortby=pubdate) **rsantosc@fiu.edu** with the subject line **‘Postdoc 2024 + your name.’** In your email, please include (as a single PDF):\
+**How To Apply:** Please email [Dr. Jenn Rehage](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8pe5lMIwebbK2vDA0aqCLN30vyKodcfhdsGPY-PPbeXqqJwSTPHFdhi01ixFJhs0tkJ4z6oR0OlyRePA&user=X9VfvfIAAAAJ) at **rehagej@fiu.edu** and [Dr. Rolando Santos](https://scholar.google.com/citations?hl=en&user=SkxIVFAAAAAJ&view_op=list_works&sortby=pubdate) **rsantosc@fiu.edu** with the subject line **‘Postdoc 2025 + your name.’** In your email, please include (as a single PDF):\
       - Cover letter describing experience, interests & expertise relevant to position & career goals\
       - CV with list of 3 references\
       - Examples of products (peer-reviewed publications, data & code packages, GitHub repositories, popular articles, outreach products, etc.)\
